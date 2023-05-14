@@ -1,0 +1,270 @@
+{
+  "rows": [
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Snyk",
+        "finding.fix_version": "2.2.28",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.8,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-28346"
+      },
+      "id": "-1709267988"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.28",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.8,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-28346"
+      },
+      "id": "-1353650195"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.28",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.8,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-28347"
+      },
+      "id": "156371630"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Lacework",
+        "finding.fix_version": "4.0.6",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 9.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-34265"
+      },
+      "id": "2116569802"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Lacework",
+        "finding.fix_version": "2.2.28",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 9.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-28347"
+      },
+      "id": "-1209638500"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Lacework",
+        "finding.fix_version": "2.2.28",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-28346"
+      },
+      "id": "-1371542450"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Lacework",
+        "finding.fix_version": "2.2.28",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 9.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-28346"
+      },
+      "id": "-169346661"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Lacework",
+        "finding.fix_version": "4.0.6",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-34265"
+      },
+      "id": "772391167"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Lacework",
+        "finding.fix_version": "3.2.5",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2021-35042"
+      },
+      "id": "-809444774"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Lacework",
+        "finding.fix_version": "2.2.28",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-28347"
+      },
+      "id": "739148909"
+    },
+    {
+      "data": {
+        "finding.severity": "CRITICAL",
+        "finding.source": "Snyk",
+        "finding.fix_version": "4.0.6",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 9.1,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-34265"
+      },
+      "id": "-1922743530"
+    },
+    {
+      "data": {
+        "finding.severity": "HIGH",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.27",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 7.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-23833"
+      },
+      "id": "-52916271"
+    },
+    {
+      "data": {
+        "finding.severity": "HIGH",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.27",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 7.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-23833"
+      },
+      "id": "-5291627194"
+    },
+    {
+      "data": {
+        "finding.severity": "HIGH",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.27",
+        "finding.asset_key": "flabs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 7.5,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-23833"
+      },
+      "id": "-5291627149"
+    },
+    {
+      "data": {
+        "finding.severity": "MEDIUM",
+        "finding.source": "Snyk",
+        "finding.fix_version": "4.1",
+        "finding.asset_key": "auctions/labs-ml-model-vl-quality-model:requirements.txt",
+        "finding.zombie": true,
+        "finding.severity_score": 7,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-36359"
+      },
+      "id": "-29264327"
+    },
+    {
+      "data": {
+        "finding.severity": "MEDIUM",
+        "finding.source": "Snyk",
+        "finding.fix_version": "4.1",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": false,
+        "finding.severity_score": 7,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-36359"
+      },
+      "id": "257328070"
+    },
+    {
+      "data": {
+        "finding.severity": "MEDIUM",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.27",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 6.1,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-22818"
+      },
+      "id": "1425750199"
+    },
+    {
+      "data": {
+        "finding.severity": "MEDIUM",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.27",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 6.1,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-22818"
+      },
+      "id": "142575019965"
+    },
+    {
+      "data": {
+        "finding.severity": "LOW",
+        "finding.source": "Apiiro SCA Upload",
+        "finding.fix_version": "2.2.27",
+        "finding.asset_key": "labs-ml-model-vl-quality-model",
+        "finding.zombie": true,
+        "finding.severity_score": 6.1,
+        "finding.is_fixable": true,
+        "finding.fix_text": null,
+        "finding.cve": "CVE-2022-22818"
+      },
+      "id": "1425750199432"
+    }
+  ]
+}
